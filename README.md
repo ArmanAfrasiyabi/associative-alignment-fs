@@ -4,14 +4,21 @@ This paper proposes associative alignment with two strategies: 1) a metric-learn
 
   
 
-This repository will contains the pytorch implementation of Associative Alignment for Few-shot Image Classification [paper](https://arxiv.org/abs/1912.05094).
+This repository **is going to** contain the pytorch implementation of Associative Alignment for Few-shot Image Classification [paper](https://arxiv.org/abs/1912.05094).
 
 
-### **This repository is going to include**
+
  
 ## Installation
 ...
 
+
+## Datasets
+...
+
+
+## Train 
+...
 
 
 
