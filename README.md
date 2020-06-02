@@ -29,7 +29,7 @@ This repository **is going to** contain the pytorch implementation of Associativ
 ## Citation
 @article{afrasiyabi2019associative,\
   	&emsp; &emsp; title={Associative Alignment for Few-shot Image Classification},\
-  	&emsp; &emsp; author={Afrasiyabi Arman, Lalonde Jean-François, Gagné Christian},\ 
-  	&emsp; &emsp; journal={arXiv preprint arXiv:1912.05094},\
-  	&emsp; &emsp; year={2019}\
-&emsp; } 
+  	&emsp; &emsp; author={Afrasiyabi Arman, Lalonde Jean-François, Gagné Christian}, \
+  	&emsp; &emsp; journal={arXiv preprint arXiv:1912.05094}, \
+  	&emsp; &emsp; year={2019} \
+&emsp;}
