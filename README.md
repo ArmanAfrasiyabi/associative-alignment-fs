@@ -1,5 +1,5 @@
-#  [Associative Alignment for Few-shot Image Classification](https://lvsn.github.io/associative-alignment/) **click for project webpage!**
-This paper proposes associative alignment with two strategies: 1) a metric-learning loss for minimizing the distance between related base samples and the centroid of novel instances in the feature space, and 2) a conditional adversarial alignment loss based on the Wasserstein distance.
+#  [Associative Alignment for Few-shot Image Classification](https://lvsn.github.io/associative-alignment/) 
+This paper proposes associative alignment with two strategies: 1) a metric-learning loss for minimizing the distance between related base samples and the centroid of novel instances in the feature space, and 2) a conditional adversarial alignment loss based on the Wasserstein distance.[**click for project webpage!**](https://lvsn.github.io/associative-alignment/) 
 
 
 
