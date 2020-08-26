@@ -33,4 +33,5 @@ title = {Associative Alignment for Few-shot Image Classification},
 booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
 month = {August},
 year = {2020}
-}</code></pre>
+}
+</code></pre>
