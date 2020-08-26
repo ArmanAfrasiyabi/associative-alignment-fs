@@ -5,9 +5,9 @@ This repository contains the pytorch implementation of Associative Alignment for
  
 
 ## Train 
-1. Hyper-parameters and training details are <code>args_parser.py</code>, where you can switch methods between softMax, cosMax or arcMax. We tested associative alignment using arcMax.
-2. Run meta-learning from <code>transferLearning.py</code>, which will capture the best model in ./results/models.
-2. Run transfer learning from <code>transferLearning.py</code>, which will capture the best model in ./results/models. This is required to move on to the next stage associative alignment! 
+1. Hyper-parameters and training details are specified in <code>args_parser.py</code>, where you can switch between methods such as softMax, cosMax or arcMax. We tested associative alignment using arcMax.
+2. Run meta-learning from <code>transferLearning.py</code> to capture and test the best model in ./results/models.
+2. Run transfer learning from <code>transferLearning.py</code> to save and test the best model in ./results/models. This is required to move on to the next  associative alignment stage. 
 3. Run <code>associative_alignment.py</code> to perform our associative alignment using the best model found in (2) and the pre-defined setup in (1).
 
 
