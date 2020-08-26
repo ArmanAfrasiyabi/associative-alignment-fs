@@ -26,9 +26,10 @@ This repository **will be available soon** and contain the pytorch implementatio
 
 
 ## Citation
-@article{afrasiyabi2019associative,\
-  	&emsp; &emsp; title={Associative Alignment for Few-shot Image Classification},\
-  	&emsp; &emsp; author={Afrasiyabi Arman, Lalonde Jean-François, Gagné Christian}, \
-  	&emsp; &emsp; journal={arXiv preprint arXiv:1912.05094}, \
-  	&emsp; &emsp; year={2019} \
-&emsp;}
+@InProceedings{Afrasiyabi_2020_ECCV,
+author = {Afrasiyabi, Arman and Lalonde, Jean-Fran\c{c}ois and Gagn\'{e}, Christian},
+title = {Associative Alignment for Few-shot Image Classification},
+booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+month = {August},
+year = {2020}
+}  
