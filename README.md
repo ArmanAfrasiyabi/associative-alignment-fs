@@ -25,8 +25,7 @@ This repository **will be available soon** and contain the pytorch implementatio
 
 
 
-## Citation
-<pre><code>
+## Citation<pre><code>
 @InProceedings{Afrasiyabi_2020_ECCV,
 author = {Afrasiyabi, Arman and Lalonde, Jean-Fran\c{c}ois and Gagn\'{e}, Christian},
 title = {Associative Alignment for Few-shot Image Classification},
