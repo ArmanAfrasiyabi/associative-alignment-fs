@@ -11,7 +11,7 @@ This repository **will be available soon** and contain the pytorch implementatio
 
 
 ## Train 
-1. Hyper-parameters and training details are <code>args_parser.py</code>, where you can switch methods bw softMax, cosMax or arcMax. Note: we tested associative alignment using arcMax! Additionlly, you can set the some of the included meta-learning approaches.
+1. Hyper-parameters and training details are <code>args_parser.py</code>, where you can switch methods bw softMax, cosMax or arcMax. We tested associative alignment using arcMax.
 2. Run meta-learning from <code>transferLearning.py</code>, which will capture the best model in ./results/models.
 2. Run transfer learning from <code>transferLearning.py</code>, which will capture the best model in ./results/models. This is required to move on to the next stage associative alignment! 
 3. Run <code>associative_alignment.py</code> to perform our associative alignment using the best model found in (2) and defined setup in (1).
@@ -19,7 +19,11 @@ This repository **will be available soon** and contain the pytorch implementatio
 
 
 ## Datasets
-...
+- Please download miniImageNet dataset from here. We saved each classe in 84x84 dimension to speed up the detecting related base. Therefore, we recommend to download the dataset [here](https://github.com/ArmanAfrasiyabi/associative-alignment-fs/blob/master/Associative%20Alignmentfor%20Few-Shot%20Image%20Classification.pdf).Then copy the dataset in the **fs_benchmarks** dataset. 
+- Otherwise, if you have the dataset, specify the directory of your training set in <code>args_parser.py</code>. 
+
+
+
 
 
 
