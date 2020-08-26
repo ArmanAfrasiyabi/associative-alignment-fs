@@ -21,7 +21,7 @@ Please visit [the project webpage](https://lvsn.github.io/associative-alignment/
 
 
 ## Datasets
-- Please download miniImageNet dataset from here. We saved each classe in 84x84 dimension to speed up the detecting related base. Therefore, we recommend to download the dataset [here](https://github.com/ArmanAfrasiyabi/associative-alignment-fs/blob/master/Associative%20Alignmentfor%20Few-Shot%20Image%20Classification.pdf).Then copy the dataset in the **fs_benchmarks** dataset. 
+- To speed up the detecting related base, We saved each classe in 84x84 dimension. Therefore, we recommend to download the dataset [here](https://github.com/ArmanAfrasiyabi/associative-alignment-fs/blob/master/Associative%20Alignmentfor%20Few-Shot%20Image%20Classification.pdf).Then copy the dataset in the **fs_benchmarks** dataset. 
 - Otherwise, if you have the dataset, specify the directory of your training set in <code>args_parser.py</code>. 
 
 
