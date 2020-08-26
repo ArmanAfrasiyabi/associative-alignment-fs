@@ -13,7 +13,7 @@ This repository **will be available soon** and contain the pytorch implementatio
 ## Train 
 1. Hyper-parameters and training details are <code>args_parser.py</code>, where you can switch methods bw softMax, cosMax or arcMax.
 2. Run transfer learning from <code>transferLearning.py</code>, which will capture the best model in ./results/models.
-3. Run <code>associative_alignment.py<code> to perform our associative alignment using the best model found in (2) and defined setup in (1).
+3. Run <code>associative_alignment.py</code> to perform our associative alignment using the best model found in (2) and defined setup in (1).
 
 
 
