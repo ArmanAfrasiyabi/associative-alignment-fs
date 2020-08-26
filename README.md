@@ -25,7 +25,11 @@ This repository **will be available soon** and contain the pytorch implementatio
 
 
 
-
+## Dependencies
+1. numpy
+2. Pytorch 1.0.1+ 
+3. torchvision 0.2.1+
+4. PIL
 
 
 
