@@ -2,15 +2,7 @@
  
 This repository **will be available soon** and contain the pytorch implementation of Associative Alignment for Few-shot Image Classification [paper](https://arxiv.org/abs/1912.05094) [presentation](https://github.com/ArmanAfrasiyabi/associative-alignment-fs/blob/master/Associative%20Alignmentfor%20Few-Shot%20Image%20Classification.pdf). This paper proposes associative alignment with two strategies: 1) a metric-learning loss for minimizing the distance between related base samples and the centroid of novel instances in the feature space, and 2) a conditional adversarial alignment loss based on the Wasserstein distance. 
 
-
-## The project webpage
-Please visit [the project webpage](https://lvsn.github.io/associative-alignment/) for more information.
-
-
  
-
-
-
 
 ## Train 
 1. Hyper-parameters and training details are <code>args_parser.py</code>, where you can switch methods bw softMax, cosMax or arcMax. We tested associative alignment using arcMax.
@@ -34,7 +26,8 @@ Please visit [the project webpage](https://lvsn.github.io/associative-alignment/
 4. PIL
 
 
-
+## The project webpage
+Please visit [the project webpage](https://lvsn.github.io/associative-alignment/) for more information.
 
 ## Citation
 </code><pre>
