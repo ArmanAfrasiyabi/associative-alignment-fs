@@ -13,7 +13,7 @@ This repository contains the pytorch implementation of Associative Alignment for
 
 
 ## Datasets
-- To speed up the detecting related base, We saved each classe in 84x84. Therefore, we recommend to download the dataset [here](https://drive.google.com/file/d/13ngR5yQLGlXjGqZSNYbXOKQF6iDTaVkp/view?usp=sharing). Then copy the dataset in the **fs_benchmarks** directory. 
+- To speed up the detecting related base, We saved the base classes in 84x84 format. Therefore, we recommend to download the dataset [here](https://drive.google.com/file/d/13ngR5yQLGlXjGqZSNYbXOKQF6iDTaVkp/view?usp=sharing). Then copy the dataset in the **fs_benchmarks** directory. 
 - Otherwise, if you have the dataset, specify the directory of your training set in <code>args_parser.py</code>. 
 
 
