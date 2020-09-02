@@ -54,7 +54,7 @@ class transferLearningFuns(nn.Module):
                                 {'params': self.base_clf.parameters()}], 
                                   lr = self.lr) 
         
-    def accuracy_fun_tl(self, data_loader):        # this is typical batch based testing (should be only used for base categories) 
+    def accuracy_fun_tl(self, data_loader):        
         Acc = 0
         self.net.eval()  
         with torch.no_grad(): 
