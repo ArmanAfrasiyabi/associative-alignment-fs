@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 17 02:31:23 2020
-
-@author: ari
-"""
-
 from __future__ import print_function 
 from methods.transferLearning_clfHeads import softMax, cosMax, arcMax
 from torch.autograd import Variable
