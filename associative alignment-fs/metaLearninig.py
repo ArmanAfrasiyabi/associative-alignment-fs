@@ -3,7 +3,7 @@ import torch
 import numpy as np
 import torch.optim
 from backbones.utils import backboneSet
-from data.ml_dataFunctions import EpisodicDataManager
+from data.ml_dataFunctions import SetDataManager as EpisodicDataManager
 from methods.metaLearningFuns import metaLearningFuns 
 from args_parser import args_parser
 from backbones.utils import clear_temp
