@@ -31,11 +31,12 @@ Please visit [the project webpage](https://lvsn.github.io/associative-alignment/
 
 ## Citation
 </code><pre>
-@InProceedings{Afrasiyabi_2020_ECCV,
-author = {Afrasiyabi, Arman and Lalonde, Jean-Fran\c{c}ois and Gagn\'{e}, Christian},
-title = {Associative Alignment for Few-shot Image Classification},
-booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
-month = {August},
-year = {2020}
+@inproceedings{afrasiyabi2020associative,
+  title={Associative Alignment for Few-shot Image Classification},
+  author={Afrasiyabi, Arman and Lalonde, Jean-Fran{\c{c}}ois and Gagn{\'e}, Christian},
+  booktitle={European Conference on Computer Vision},
+  pages={18--35},
+  year={2020},
+  organization={Springer}
 }
 </code></pre>
